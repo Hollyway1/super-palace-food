@@ -30,7 +30,7 @@ const Hero = () => {
 
       {/* WhatsApp floating button */}
       <a
-        href="https://wa.me/2347034917189?text=Hello%20I%20want%20to%20place%20an%20order"
+        href="https://wa.me/2348139717781?text=Hello%20I%20want%20to%20place%20an%20order"
         target="_blank"
         rel="noopener noreferrer"
         className="relative mb-10 bg-green-600 px-6 py-3 rounded-full font-semibold text-white shadow-xl hover:bg-green-500 transition hover:scale-110 animate-pulse"
